@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **C++ | HTML | Python | C#**
 
-- 👨‍💻 All of my projects are available at [https://znap.link/Kunal_Shah](https://znap.link/Kunal_Shah)
+- 👨‍💻 All of my projects are available at my [ Personal Website](https://kunal-shah.vercel.app)
 
 - 💬 Ask me about **C++ , HTML**
 
-- 📫 How to reach me **mail.kunalshah.017@gmail.com**
+- 📫 How to reach me -[ Telegram](https://t.me/kunalshah017)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

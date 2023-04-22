@@ -21,7 +21,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunal_shah_17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunal shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal shah" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
@@ -48,6 +48,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.coreldraw.com/en/"><img src="https://i.ibb.co/sg08Sgf/corel.png" alt="corel" width ="60"></a>
 
 <hr>
+<h3 align="left">Worlds Best Human Beigns :<br> (my followers 🤝)</h3>
 <div align="middle">
 <!-- FOLLOWER-LIST:START -->
 <table>
@@ -106,7 +107,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 </div>
 <hr> 
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">Stats :</h3>
 <p align="center">
 <a href="https://github.com/kunalshah017/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah017&layout=compact&theme=radical&hide_border=true" /></a>  
 <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=kunalshah017&show_icons=true&theme=radical&hide_border=true" />

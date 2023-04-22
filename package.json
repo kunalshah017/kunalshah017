@@ -1,0 +1,24 @@
+{
+  "name": "Kunal-Shah",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalshah017/kunalshah017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalshah017/kunalshah017/issues"
+  },
+  "homepage": "https://github.com/kunalshah017/kunalshah017#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0"
+  }
+}

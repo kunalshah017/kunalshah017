@@ -28,7 +28,7 @@
 <a href="https://instagram.com/kunal._.shah._.017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal._.shah._.017" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31hgv3hncqa5p4qme3hi7ll7nyeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" alt="KuNaL" height="30" width="40" /></a>
 <a href="https://twitch.tv/kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitch.svg" alt="KuNaL" height="30" width="40" /></a>
-
+<a href="https://hashnode.com/@kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/icons/brand-icon.png" alt="KuNaL" height="30" /></a>
 
 </p>
 

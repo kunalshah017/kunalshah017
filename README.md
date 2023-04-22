@@ -68,5 +68,56 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <hr>
 
 <!-- FOLLOWER-LIST:START -->
+<table>
+  <tr>
 
+<td align="center">
+     <a href="https://github.com/VishalxRana">
+       <img src="https://avatars.githubusercontent.com/u/32135511?v=4" width="100px;" alt="VishalxRana"/>
+     </a>
+     <br />
+     <a href="https://github.com/VishalxRana">VishalxRana</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/yrncollo">
+       <img src="https://avatars.githubusercontent.com/u/81387575?v=4" width="100px;" alt="yrncollo"/>
+     </a>
+     <br />
+     <a href="https://github.com/yrncollo">yrncollo</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/NisargPipaliya">
+       <img src="https://avatars.githubusercontent.com/u/96529542?v=4" width="100px;" alt="NisargPipaliya"/>
+     </a>
+     <br />
+     <a href="https://github.com/NisargPipaliya">NisargPipaliya</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/SetuBhatt1">
+       <img src="https://avatars.githubusercontent.com/u/113768966?v=4" width="100px;" alt="SetuBhatt1"/>
+     </a>
+     <br />
+     <a href="https://github.com/SetuBhatt1">SetuBhatt1</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/snowflakke">
+       <img src="https://avatars.githubusercontent.com/u/115937402?v=4" width="100px;" alt="snowflakke"/>
+     </a>
+     <br />
+     <a href="https://github.com/snowflakke">snowflakke</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/Aashu-shinde-012">
+       <img src="https://avatars.githubusercontent.com/u/118661241?v=4" width="100px;" alt="Aashu-shinde-012"/>
+     </a>
+     <br />
+     <a href="https://github.com/Aashu-shinde-012">Aashu-shinde-012</a>
+  </td>
+		  </tr>
+</table>
 <!-- FOLLOWER-LIST:END -->

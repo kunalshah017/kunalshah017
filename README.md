@@ -48,25 +48,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.coreldraw.com/en/"><img src="https://i.ibb.co/sg08Sgf/corel.png" alt="corel" width ="60"></a>
 
 <hr>
-<h3 align="left">Stats:</h3>
-
-<p align="center">
-<a href="https://github.com/kunalshah017/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah017&layout=compact&theme=radical&hide_border=true" /></a>  
-<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=kunalshah017&show_icons=true&theme=radical&hide_border=true" />
-  
- 
-
-<p align="center">		
-
-
-<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshah017&theme=radical&hide_border=true" />
-
-<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />
-
-</p>
-
-<hr>
-
+<div align="middle">
 <!-- FOLLOWER-LIST:START -->
 <table>
   <tr>
@@ -121,3 +103,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 		  </tr>
 </table>
 <!-- FOLLOWER-LIST:END -->
+</div>
+<hr> 
+
+<h3 align="left">Stats:</h3>
+<p align="center">
+<a href="https://github.com/kunalshah017/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah017&layout=compact&theme=radical&hide_border=true" /></a>  
+<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=kunalshah017&show_icons=true&theme=radical&hide_border=true" />
+<p align="center">		
+<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshah017&theme=radical&hide_border=true" />
+<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />
+</p>

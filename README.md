@@ -48,7 +48,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.coreldraw.com/en/"><img src="https://i.ibb.co/sg08Sgf/corel.png" alt="corel" width ="60"></a>
 
 <hr>
-<h3 align="left">Worlds Best Human Beigns :<br> (my followers 🤝)</h3>
+<h3 align="left">Worlds Best Human Beings :<br> (my followers 🤝)</h3>
 <div align="middle">
 <!-- FOLLOWER-LIST:START -->
 <table>

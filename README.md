@@ -116,3 +116,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshah017&theme=radical&hide_border=true" />
 <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />
 </p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->

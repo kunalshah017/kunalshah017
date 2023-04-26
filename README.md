@@ -46,10 +46,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://www.linkpicture.com/q/c-sharp-c.svg" alt="C#" width="40" height="40" /> </a>
-<a href="https://www.coreldraw.com/en/"><img src="https://i.ibb.co/sg08Sgf/corel.png" alt="corel" width ="60"></a>
+&nbsp <a href="https://www.coreldraw.com/en/"><img src="https://i.ibb.co/sg08Sgf/corel.png" alt="Corel Draw" width ="60"></a> 
+&nbsp <a href "https://scratch.mit.edu/users/KS_DIVINE_017/"><img src="https://freesvg.org/img/1645699345cat.png" alt="Scratch" width="50"?</a>
 
 <hr>
-<h3 align="left">Worlds Best Human Beings :<br> (my followers 🤝)</h3>
+<h3 align="left">Worlds Best Human Beings :<br> (my followers 🤝)</h3
 <div align="middle">
 <!-- FOLLOWER-LIST:START -->
 <table>

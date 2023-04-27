@@ -145,3 +145,6 @@ Other        1 min           -------------------------   00.12 %
 <hr>
 <h3 align="left">🐍 Contributions :</h3>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/ArslanYM/ArslanYM/output/snake.svg" alt="Snake animation" />
+</div>

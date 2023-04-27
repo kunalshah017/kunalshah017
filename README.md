@@ -142,3 +142,6 @@ Other        1 min           -------------------------   00.12 %
 </p>
 <!--<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />-->
 
+<hr>
+<h3 align="left">🐍 Contributions :</h3>
+

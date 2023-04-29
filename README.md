@@ -126,7 +126,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <hr>
 
 <h3 align="left">🗓 Weekly Coding Stats :</h3>
-<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
+
+<div align="middle">
+  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif" style="display:inline-block; margin-left:10px;">
+</div> 
+
 <!--START_SECTION:waka-->
 
 ```text

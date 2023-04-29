@@ -127,9 +127,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <h3 align="left">🗓 Weekly Coding Stats :</h3>
 
-<div align="middle">
-  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif" style="display:inline-block; margin-left:10px;">
-</div> 
+<div style="text-align:center;">
+  <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif" style="display:inline-block; margin-left:10px;">
+
+
 
 <!--START_SECTION:waka-->
 
@@ -148,7 +149,10 @@ Other        1 min           -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
+</div>
 </p>
+
+
 <!--<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />-->
 <hr>
 <h3 align="left">🐍 Contributions :</h3>

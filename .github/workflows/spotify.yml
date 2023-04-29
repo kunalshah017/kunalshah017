@@ -1,0 +1,23 @@
+name: Update Readme Every 10 Seconds
+
+on:
+  schedule:
+    - cron: '*/10 * * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Update Readme
+        run: |
+          echo '<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/>' > README.md
+          
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update README every 10 seconds"
+          commit_options: '--no-verify'
+          file_pattern: README.md

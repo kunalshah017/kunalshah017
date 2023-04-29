@@ -5,8 +5,9 @@
 <h3 align="center">Welcome to my Coding World</h3>
 
 
+
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" align="right"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" align="right"/>
 </a>
 
 <a href="https://github.com/kunalshah017"><p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshah017&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshah017" /> </p></a>

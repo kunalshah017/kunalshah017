@@ -4,11 +4,8 @@
 
 <h3 align="center">Welcome to my Coding World</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 
-
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" align="right"/>
-</a>
 
 <a href="https://github.com/kunalshah017"><p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshah017&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshah017" /> </p></a>
 <a href="https://kunal-shah.vercel.app/">
@@ -16,6 +13,10 @@
 </a>
 
 <a href="https://twitter.com/kunalshah017"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kunalshah017?logo=twitter&style=plastic"></a>
+
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" />
+</a>
 
 - 🌱 I’m currently learning **C++ | HTML | Python | C#**
 
@@ -126,10 +127,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshah017&theme=radical&hide_border=true" />
 <hr>
 
-<h3 align="left">🗓 Weekly Coding Stats :</h3>
 
-<div style="text-align:center;">
-  <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif" style="display:inline-block; margin-left:10px;">
+<img src="https://user-images.githubusercontent.com/95049390/235308822-4d55a35d-87f5-41d2-b9b9-94bd2d8d63ef.gif"  align="right" width="350"/>
+
+<h3 align="left">🗓 Weekly Coding Stats :</h3>
 
 
 
@@ -150,13 +151,13 @@ Other        1 min           -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
-</div>
 </p>
 
-
 <!--<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />-->
+<br>
 <hr>
 <h3 align="left">🐍 Contributions :</h3>
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/output/snake.svg" alt="Snake animation" width="900"/>
+<img src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/output/snake.svg" alt="Snake animation" width="900" />
 </div>

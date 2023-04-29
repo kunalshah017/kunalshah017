@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to my Coding World</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 
 
 <a href="https://github.com/kunalshah017"><p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshah017&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshah017" /> </p></a>

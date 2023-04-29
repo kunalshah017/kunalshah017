@@ -14,6 +14,12 @@
 
 <a href="https://twitter.com/kunalshah017"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kunalshah017?logo=twitter&style=plastic"></a>
 
+<div>
+	<p>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/>
+&nbsp Join the Vibe 🎶
+        </p>
+</div>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" />
 </a>

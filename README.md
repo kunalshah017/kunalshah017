@@ -21,9 +21,7 @@
         </p>
 </div>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&redirect=true">
-  <!--START_SECTION:spotify-->
-
-<!--END_SECTION:spotify-->
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" />
 </a>
 
 - 🌱 I’m currently learning **C++ | HTML | Python | C#**

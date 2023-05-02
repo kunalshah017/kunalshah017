@@ -47,6 +47,7 @@
 <a href="https://www.snapchat.com/add/kunalshah_017?share_id=5McFMMDkZDg&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/snapchat.svg" alt="KuNaL" height="30" width="40"/></a>
 <br><br>
 &nbsp<a href="https://dev.to/kunalshah017"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/></a>
+<a href="https://discord.com/users/892674083601416192"><img src"https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40"/></a>
 
 </p>
 

@@ -75,6 +75,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 &nbsp <a href="https://scratch.mit.edu/users/KS_DIVINE_017/"><img src="https://freesvg.org/img/1645699345cat.png" alt="Scratch" width="50"?</a>
 	
 <hr>
+<h3 align="center">My Trophies 🏆</h3>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kunalshah017&theme=discord&column=7&no-bg=true&margin-w=15&margin-h=10" width=90%>
+</div>
+<hr>
 <h3 align="left">Worlds Best Human Beings :<br> (my followers 🤝)</h3
 <div align="middle">
 <!-- FOLLOWER-LIST:START -->

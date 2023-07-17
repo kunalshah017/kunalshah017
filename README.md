@@ -39,6 +39,27 @@
 
 <hr>
 
+<h3 align="left">✨ My Latest Blogs and Ebooks</h3>
+<img align="left" height="340" src="https://github.com/kunalshah017/kunalshah017/assets/95049390/3c7eb95a-ad9c-4145-a54a-3365bd7637a1" />
+
+<div algin="right">
+<p align="left">
+<br><br>I have made an ebook covering topics of DSA learned by Highschooler.The Book is still incomplete and I will update it as I move further in the topic.<br>
+
+As I am learning this topic from a basic to advance, the book also follows the similar learning curve and tried to keep the explanations given by me in book as simple as possible.<br>
+
+You can keep the track of updates by the version number on cover page of the book currently it is - 1.23, will be releasing 2.23 with more interesting stuff soon<br>
+
+You can get source codes use in this book from my Github Repository <a href="https://github.com/kunalshah017/Learning-CPP">Learning CPP</a><br>
+
+
+Thank You,<br>
+Made with ❤ by Kunal Shah (<a href="github.com/kunalshah017">kunalshah017</a>)
+</p>
+</div>
+<br>
+<hr>
+
 <h3 align="left">🌐 Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunal_shah_17" height="30" width="40" /></a>
@@ -70,7 +91,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 &nbsp <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://www.linkpicture.com/q/c-sharp-c.svg" alt="C#" width="40" height="40" /> </a>
 &nbsp <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React" width="40" height="40" /> </a>
-&nbsp <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/StaticSiteGenerators/nextjs.svg" alt="React" width="40" height="40" /> </a>
+&nbsp <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/kunalshah017/kunalshah017/assets/95049390/6bab833d-b7ed-44f6-8673-90d072dd4af8" alt="NextJS" width="40" height="40" /> </a>
 &nbsp <a href="https://www.coreldraw.com/en/"><img src="https://i.ibb.co/sg08Sgf/corel.png" alt="Corel Draw" width ="40" height="40"></a> 
 &nbsp <a href="https://scratch.mit.edu/users/KS_DIVINE_017/"><img src="https://freesvg.org/img/1645699345cat.png" alt="Scratch" width="50"?</a>
 	

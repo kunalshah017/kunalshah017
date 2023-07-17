@@ -40,11 +40,13 @@
 <hr>
 
 <h3 align="left">✨ My Latest Blogs and Ebooks</h3>
-<a href="https://kunalshah017.gumroad.com/l/dsa-made-easy"><img align="left" height="340" src="https://github.com/kunalshah017/kunalshah017/assets/95049390/3c7eb95a-ad9c-4145-a54a-3365bd7637a1"/></a>
-
+<a href="https://kunalshah017.gumroad.com/l/dsa-made-easy">
+<img align="left" height="340" src="https://github.com/kunalshah017/kunalshah017/assets/95049390/3c7eb95a-ad9c-4145-a54a-3365bd7637a1"/>
+</a>
 <div algin="right">
 <p align="left">
-<br><br>I have made an ebook covering topics of DSA learned by Highschooler.The Book is still incomplete and I will update it as I move further in the topic.<br>
+	<h3 align="center">✔ Check it Out !! - <a href="https://kunalshah017.gumroad.com/l/dsa-made-easy">Here</a>.</h3>
+I have made an ebook covering topics of DSA learned by Highschooler.The Book is still incomplete and I will update it as I move further in the topic.<br>
 
 As I am learning this topic from a basic to advance, the book also follows the similar learning curve and tried to keep the explanations given by me in book as simple as possible.<br>
 

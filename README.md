@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **C++ | HTML | Python | C#**
 
-- 👨‍💻 All of my projects are available at my [ Personal Website](https://kunal-shah.vercel.app)
+- 👨‍💻 All of my projects are available at my [Personal Website](https://kunal-shah.vercel.app)
 
 - 💬 Ask me about **C++ , HTML**
 
@@ -41,7 +41,7 @@
 
 <h3 align="left">✨ My Latest Blogs and Ebooks</h3>
 <a href="https://kunalshah017.gumroad.com/l/dsa-made-easy">
-<img align="left" height="340" src="https://github.com/kunalshah017/kunalshah017/assets/95049390/3c7eb95a-ad9c-4145-a54a-3365bd7637a1"/>
+<img align="left" height="340" src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/cover.png"/>
 </a>
 <div algin="right">
 <p align="left">

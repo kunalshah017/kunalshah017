@@ -40,7 +40,7 @@
 <hr>
 
 <h3 align="left">✨ My Latest Blogs and Ebooks</h3>
-<img align="left" height="340" src="https://github.com/kunalshah017/kunalshah017/assets/95049390/3c7eb95a-ad9c-4145-a54a-3365bd7637a1" />
+<a href="https://kunalshah017.gumroad.com/l/dsa-made-easy"><img align="left" height="340" src="https://github.com/kunalshah017/kunalshah017/assets/95049390/3c7eb95a-ad9c-4145-a54a-3365bd7637a1" /></a>
 
 <div algin="right">
 <p align="left">

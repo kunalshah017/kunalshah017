@@ -126,14 +126,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
-     <a href="https://github.com/Sachinbhujel">
-       <img src="https://avatars.githubusercontent.com/u/90704616?v=4" width="100px;" alt="Sachinbhujel"/>
-     </a>
-     <br />
-     <a href="https://github.com/Sachinbhujel">Sachinbhujel</a>
-  </td>
-		
-<td align="center">
      <a href="https://github.com/NisargPipaliya">
        <img src="https://avatars.githubusercontent.com/u/96529542?v=4" width="100px;" alt="NisargPipaliya"/>
      </a>
@@ -164,9 +156,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/snowflakke">snowflakke</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/Aashu-shinde-012">
        <img src="https://avatars.githubusercontent.com/u/118661241?v=4" width="100px;" alt="Aashu-shinde-012"/>

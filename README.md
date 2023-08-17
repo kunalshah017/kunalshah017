@@ -165,6 +165,16 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <a href="https://github.com/Aashu-shinde-012">Aashu-shinde-012</a>
   </td>
 		  </tr>
+  <tr>
+
+<td align="center">
+     <a href="https://github.com/shiffsyedd">
+       <img src="https://avatars.githubusercontent.com/u/142430206?v=4" width="100px;" alt="shiffsyedd"/>
+     </a>
+     <br />
+     <a href="https://github.com/shiffsyedd">shiffsyedd</a>
+  </td>
+		  </tr>
 </table>
 <!-- FOLLOWER-LIST:END -->
 </div>

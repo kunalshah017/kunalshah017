@@ -119,6 +119,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
+     <a href="https://github.com/KRIKU05">
+       <img src="https://avatars.githubusercontent.com/u/70624893?v=4" width="100px;" alt="KRIKU05"/>
+     </a>
+     <br />
+     <a href="https://github.com/KRIKU05">KRIKU05</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/yrncollo">
        <img src="https://avatars.githubusercontent.com/u/81387575?v=4" width="100px;" alt="yrncollo"/>
      </a>
@@ -157,7 +165,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/snowflakke">snowflakke</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/Aashu-shinde-012">
        <img src="https://avatars.githubusercontent.com/u/118661241?v=4" width="100px;" alt="Aashu-shinde-012"/>
@@ -165,9 +175,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/Aashu-shinde-012">Aashu-shinde-012</a>
   </td>
-		  </tr>
-  <tr>
-
+		
+<td align="center">
+     <a href="https://github.com/Tanvimisar">
+       <img src="https://avatars.githubusercontent.com/u/137156453?v=4" width="100px;" alt="Tanvimisar"/>
+     </a>
+     <br />
+     <a href="https://github.com/Tanvimisar">Tanvimisar</a>
+  </td>
+		
 <td align="center">
      <a href="https://github.com/shiffsyedd">
        <img src="https://avatars.githubusercontent.com/u/142430206?v=4" width="100px;" alt="shiffsyedd"/>

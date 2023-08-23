@@ -60,6 +60,7 @@ Made with ❤ by Kunal Shah (<a href="github.com/kunalshah017">kunalshah017</a>)
 </p>
 </div>
 <br>
+<br>
 <hr>
 
 <h3 align="left">🌐 Connect with me :</h3>

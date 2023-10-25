@@ -159,15 +159,23 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
+     <a href="https://github.com/FURIOUSCHAMP007">
+       <img src="https://avatars.githubusercontent.com/u/108749861?v=4" width="100px;" alt="FURIOUSCHAMP007"/>
+     </a>
+     <br />
+     <a href="https://github.com/FURIOUSCHAMP007">FURIOUSCHAMP007</a>
+  </td>
+		  </tr>
+  <tr>
+
+<td align="center">
      <a href="https://github.com/SetuBhatt1">
        <img src="https://avatars.githubusercontent.com/u/113768966?v=4" width="100px;" alt="SetuBhatt1"/>
      </a>
      <br />
      <a href="https://github.com/SetuBhatt1">SetuBhatt1</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/snowflakke">
        <img src="https://avatars.githubusercontent.com/u/115937402?v=4" width="100px;" alt="snowflakke"/>

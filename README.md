@@ -248,9 +248,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2023 - To: 23 October 2023
+From: 30 March 2023 - To: 24 October 2023
 
-Total Time: 81 hrs 49 mins
+Total Time: 81 hrs 50 mins
 
 C++              17 hrs 55 mins  >>>>>--------------------   21.91 %
 JavaScript       16 hrs 4 mins   >>>>>--------------------   19.65 %

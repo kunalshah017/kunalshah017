@@ -235,6 +235,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
+     <a href="https://github.com/maannas">
+       <img src="https://avatars.githubusercontent.com/u/148738351?v=4" width="100px;" alt="maannas"/>
+     </a>
+     <br />
+     <a href="https://github.com/maannas">maannas</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/aashutosh1234567">
        <img src="https://avatars.githubusercontent.com/u/149098653?v=4" width="100px;" alt="aashutosh1234567"/>
      </a>

@@ -119,6 +119,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
+     <a href="https://github.com/spark-lucifer">
+       <img src="https://avatars.githubusercontent.com/u/60466807?v=4" width="100px;" alt="spark-lucifer"/>
+     </a>
+     <br />
+     <a href="https://github.com/spark-lucifer">spark-lucifer</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/KRIKU05">
        <img src="https://avatars.githubusercontent.com/u/70624893?v=4" width="100px;" alt="KRIKU05"/>
      </a>
@@ -157,7 +165,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/MoinMN">MoinMN</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/FURIOUSCHAMP007">
        <img src="https://avatars.githubusercontent.com/u/108749861?v=4" width="100px;" alt="FURIOUSCHAMP007"/>
@@ -165,9 +175,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/FURIOUSCHAMP007">FURIOUSCHAMP007</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/SetuBhatt1">
        <img src="https://avatars.githubusercontent.com/u/113768966?v=4" width="100px;" alt="SetuBhatt1"/>
@@ -215,7 +223,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/BunnyKet">BunnyKet</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/ananya-dhiman">
        <img src="https://avatars.githubusercontent.com/u/145692647?v=4" width="100px;" alt="ananya-dhiman"/>
@@ -223,9 +233,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/ananya-dhiman">ananya-dhiman</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/SW42-kj">
        <img src="https://avatars.githubusercontent.com/u/145698916?v=4" width="100px;" alt="SW42-kj"/>

@@ -282,20 +282,20 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2023 - To: 28 December 2023
+From: 30 March 2023 - To: 29 December 2023
 
-Total Time: 133 hrs 26 mins
+Total Time: 136 hrs 5 mins
 
-CSS              27 hrs 44 mins  >>>>>--------------------   20.79 %
-C                22 hrs 35 mins  >>>>---------------------   16.93 %
-JavaScript       22 hrs 16 mins  >>>>---------------------   16.69 %
-C++              19 hrs 9 mins   >>>>---------------------   14.36 %
-HTML             16 hrs 22 mins  >>>----------------------   12.27 %
-Markdown         14 hrs 4 mins   >>>----------------------   10.55 %
-Text             4 hrs 13 mins   >------------------------   03.16 %
-Java             2 hrs           -------------------------   01.50 %
-JSON             1 hr 17 mins    -------------------------   00.97 %
-YAML             41 mins         -------------------------   00.52 %
+CSS              28 hrs 37 mins  >>>>>--------------------   21.03 %
+C                22 hrs 35 mins  >>>>---------------------   16.60 %
+JavaScript       22 hrs 29 mins  >>>>---------------------   16.52 %
+C++              19 hrs 9 mins   >>>>---------------------   14.08 %
+HTML             17 hrs 38 mins  >>>----------------------   12.96 %
+Markdown         14 hrs 4 mins   >>>----------------------   10.34 %
+Text             4 hrs 13 mins   >------------------------   03.10 %
+Java             2 hrs           -------------------------   01.47 %
+JSON             1 hr 17 mins    -------------------------   00.95 %
+YAML             41 mins         -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->

@@ -119,11 +119,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
-     <a href="https://github.com/spark-lucifer">
-       <img src="https://avatars.githubusercontent.com/u/60466807?v=4" width="100px;" alt="spark-lucifer"/>
+     <a href="https://github.com/Piyushchy">
+       <img src="https://avatars.githubusercontent.com/u/60466807?v=4" width="100px;" alt="Piyushchy"/>
      </a>
      <br />
-     <a href="https://github.com/spark-lucifer">spark-lucifer</a>
+     <a href="https://github.com/Piyushchy">Piyushchy</a>
   </td>
 		
 <td align="center">

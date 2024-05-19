@@ -111,6 +111,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   <tr>
 
 <td align="center">
+     <a href="https://github.com/ARJUN-R34">
+       <img src="https://avatars.githubusercontent.com/u/23917863?v=4" width="100px;" alt="ARJUN-R34"/>
+     </a>
+     <br />
+     <a href="https://github.com/ARJUN-R34">ARJUN-R34</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/VishalxRana">
        <img src="https://avatars.githubusercontent.com/u/32135511?v=4" width="100px;" alt="VishalxRana"/>
      </a>
@@ -157,7 +165,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/NisargPipaliya">NisargPipaliya</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/MoinMN">
        <img src="https://avatars.githubusercontent.com/u/100254727?v=4" width="100px;" alt="MoinMN"/>
@@ -165,9 +175,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/MoinMN">MoinMN</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/FURIOUSCHAMP007">
        <img src="https://avatars.githubusercontent.com/u/108749861?v=4" width="100px;" alt="FURIOUSCHAMP007"/>
@@ -215,7 +223,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/shiffsyedd">shiffsyedd</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/BunnyKet">
        <img src="https://avatars.githubusercontent.com/u/143835059?v=4" width="100px;" alt="BunnyKet"/>
@@ -223,9 +233,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/BunnyKet">BunnyKet</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/ananya-dhiman">
        <img src="https://avatars.githubusercontent.com/u/145692647?v=4" width="100px;" alt="ananya-dhiman"/>

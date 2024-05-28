@@ -235,6 +235,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
+     <a href="https://github.com/Zoro5689">
+       <img src="https://avatars.githubusercontent.com/u/145559594?v=4" width="100px;" alt="Zoro5689"/>
+     </a>
+     <br />
+     <a href="https://github.com/Zoro5689">Zoro5689</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/ananya-dhiman">
        <img src="https://avatars.githubusercontent.com/u/145692647?v=4" width="100px;" alt="ananya-dhiman"/>
      </a>

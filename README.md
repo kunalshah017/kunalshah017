@@ -1,4 +1,4 @@
-![profile banner](Assets/Profile_Banner.gif)
+![profile banner](https://s12.gifyu.com/images/StCl5.gif)
 
 <h1 align="center">Hi 👋, I'm Kunal Shah</h1>
 

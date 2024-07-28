@@ -291,6 +291,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/aashutosh1234567">aashutosh1234567</a>
   </td>
+		
+<td align="center">
+     <a href="https://github.com/Gauri693">
+       <img src="https://avatars.githubusercontent.com/u/176602299?v=4" width="100px;" alt="Gauri693"/>
+     </a>
+     <br />
+     <a href="https://github.com/Gauri693">Gauri693</a>
+  </td>
 		  </tr>
 </table>
 <!-- FOLLOWER-LIST:END -->

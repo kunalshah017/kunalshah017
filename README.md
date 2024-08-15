@@ -119,11 +119,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
-     <a href="https://github.com/VishalxRana">
-       <img src="https://avatars.githubusercontent.com/u/32135511?v=4" width="100px;" alt="VishalxRana"/>
+     <a href="https://github.com/vishalxrana">
+       <img src="https://avatars.githubusercontent.com/u/32135511?v=4" width="100px;" alt="vishalxrana"/>
      </a>
      <br />
-     <a href="https://github.com/VishalxRana">VishalxRana</a>
+     <a href="https://github.com/vishalxrana">vishalxrana</a>
   </td>
 		
 <td align="center">

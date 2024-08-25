@@ -324,11 +324,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2023 - To: 22 August 2024
+From: 30 March 2023 - To: 23 August 2024
 
-Total Time: 362 hrs 55 mins
+Total Time: 362 hrs 56 mins
 
-TypeScript       97 hrs 51 mins  >>>>>>>------------------   26.97 %
+TypeScript       97 hrs 53 mins  >>>>>>>------------------   26.97 %
 JavaScript       64 hrs 25 mins  >>>>---------------------   17.75 %
 CSS              60 hrs 40 mins  >>>>---------------------   16.72 %
 HTML             44 hrs 28 mins  >>>----------------------   12.25 %

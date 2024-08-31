@@ -275,11 +275,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
 		
 <td align="center">
-     <a href="https://github.com/maannas">
-       <img src="https://avatars.githubusercontent.com/u/148738351?v=4" width="100px;" alt="maannas"/>
+     <a href="https://github.com/ManasSynth">
+       <img src="https://avatars.githubusercontent.com/u/148738351?v=4" width="100px;" alt="ManasSynth"/>
      </a>
      <br />
-     <a href="https://github.com/maannas">maannas</a>
+     <a href="https://github.com/ManasSynth">ManasSynth</a>
   </td>
 		  </tr>
   <tr>
@@ -290,6 +290,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      </a>
      <br />
      <a href="https://github.com/aashutosh1234567">aashutosh1234567</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/tarunj292">
+       <img src="https://avatars.githubusercontent.com/u/156983323?v=4" width="100px;" alt="tarunj292"/>
+     </a>
+     <br />
+     <a href="https://github.com/tarunj292">tarunj292</a>
   </td>
 		
 <td align="center">

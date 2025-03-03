@@ -1,6 +1,4 @@
-function genFollowersHtml(
-  followers: { login: string; avatar_url: string }[]
-) {
+function genFollowersHtml(followers) {
   let html = "\n<table>\n";
   followers.forEach((follower, index) => {
     const name = follower.login;
@@ -19,7 +17,7 @@ function genFollowersHtml(
      <br />
      <a href="https://github.com/${name}">${name}</a>
   </td>
-		`;
+    `;
   });
   html += "  </tr>\n</table>\n";
   return html;

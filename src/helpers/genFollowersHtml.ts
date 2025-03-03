@@ -1,19 +1,16 @@
-export const genFollowersHtml = (
+function genFollowersHtml(
   followers: { login: string; avatar_url: string }[]
-) => {
-  let html = "\n<table>\n"
-
+) {
+  let html = "\n<table>\n";
   followers.forEach((follower, index) => {
-    const name = follower.login
-    const img = follower.avatar_url
-
+    const name = follower.login;
+    const img = follower.avatar_url;
     if (index % 7 === 0) {
       if (index !== 0) {
-        html += "  </tr>\n"
+        html += "  </tr>\n";
       }
-      html += "  <tr>\n"
+      html += "  <tr>\n";
     }
-
     html += `
 <td align="center">
      <a href="https://github.com/${name}">
@@ -22,10 +19,10 @@ export const genFollowersHtml = (
      <br />
      <a href="https://github.com/${name}">${name}</a>
   </td>
-		`
-  })
-
-  html += "  </tr>\n</table>\n"
-
-  return html
+		`;
+  });
+  html += "  </tr>\n</table>\n";
+  return html;
 }
+
+module.exports = { genFollowersHtml };

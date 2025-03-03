@@ -1,10 +1,10 @@
-import axios from "axios";
+const axios = require("axios");
 
 const url = "https://api.github.com/user/followers";
 const args = process.argv.slice(2);
 const apiKey = args[0];
 
-async function getFollowers(): Promise<any> {
+async function getFollowers() {
   const { data } = await axios.get(url, {
     headers: {
       Authorization: `token ${apiKey}`,
@@ -13,7 +13,4 @@ async function getFollowers(): Promise<any> {
   return data;
 }
 
-// Use both export methods to cover all bases
 module.exports = getFollowers;
-// Add this line to make TypeScript correctly recognize the exports
-module.exports.default = getFollowers;

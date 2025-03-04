@@ -408,5 +408,8 @@ Java             13 hrs 36 mins  >------------------------   02.12 %
 <h3 align="left">🐍 Contributions :</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/output/snake.svg" alt="Snake animation" width="900" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalshah017/kunalshah017/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalshah017/kunalshah017/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/output/github-contribution-grid-snake.svg">
+</picture></div>

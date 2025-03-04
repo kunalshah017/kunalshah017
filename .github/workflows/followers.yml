@@ -26,13 +26,14 @@ jobs:
 
       - name: Update README
         run: node src/app.js ${{ secrets.TOKEN }}
-
-      - name: Commit changes
+        
+      - name: Force Git to Detect Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Updated followers"
+          git add -A
+          git diff --cached --quiet || git commit -m "Updated followers"
+
 
       - name: Pull changes
         run: git pull -r

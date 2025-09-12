@@ -35,7 +35,6 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Updated followers"
 
-
       - name: Pull changes
         run: git pull -r
 

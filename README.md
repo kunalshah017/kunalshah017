@@ -1,8 +1,9 @@
-![profile banner](https://s12.gifyu.com/images/StCl5.gif)
+![Profile_Banner (1)](https://github.com/user-attachments/assets/6171c835-3943-4406-a816-aeb8a5d63680)
 
 <h1 align="center">Hi 👋, I'm Kunal Shah</h1>
 
 <h3 align="center">Welcome to my Coding World</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 

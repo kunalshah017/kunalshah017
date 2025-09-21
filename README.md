@@ -136,19 +136,19 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
+     <a href="https://github.com/standardgalactic">
+       <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="100px;" alt="standardgalactic"/>
+     </a>
+     <br />
+     <a href="https://github.com/standardgalactic">standardgalactic</a>
+  </td>
+    
+<td align="center">
      <a href="https://github.com/Piyushchy">
        <img src="https://avatars.githubusercontent.com/u/60466807?v=4" width="100px;" alt="Piyushchy"/>
      </a>
      <br />
      <a href="https://github.com/Piyushchy">Piyushchy</a>
-  </td>
-    
-<td align="center">
-     <a href="https://github.com/KRIKU05">
-       <img src="https://avatars.githubusercontent.com/u/70624893?v=4" width="100px;" alt="KRIKU05"/>
-     </a>
-     <br />
-     <a href="https://github.com/KRIKU05">KRIKU05</a>
   </td>
     
 <td align="center">
@@ -252,14 +252,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
-     <a href="https://github.com/AorehX">
-       <img src="https://avatars.githubusercontent.com/u/132433418?v=4" width="100px;" alt="AorehX"/>
-     </a>
-     <br />
-     <a href="https://github.com/AorehX">AorehX</a>
-  </td>
-    
-<td align="center">
      <a href="https://github.com/Tanvimisar">
        <img src="https://avatars.githubusercontent.com/u/137156453?v=4" width="100px;" alt="Tanvimisar"/>
      </a>
@@ -276,16 +268,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
-     <a href="https://github.com/Aniket7292">
-       <img src="https://avatars.githubusercontent.com/u/143835059?v=4" width="100px;" alt="Aniket7292"/>
-     </a>
-     <br />
-     <a href="https://github.com/Aniket7292">Aniket7292</a>
-  </td>
-      </tr>
-  <tr>
-
-<td align="center">
      <a href="https://github.com/MohinShaikh5689">
        <img src="https://avatars.githubusercontent.com/u/145559594?v=4" width="100px;" alt="MohinShaikh5689"/>
      </a>
@@ -300,7 +282,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/ananya-dhiman">ananya-dhiman</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/SW42-kj">
        <img src="https://avatars.githubusercontent.com/u/145698916?v=4" width="100px;" alt="SW42-kj"/>
@@ -340,9 +324,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/bishnoisujal99">bishnoisujal99</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/KGandhi90">
        <img src="https://avatars.githubusercontent.com/u/177342974?v=4" width="100px;" alt="KGandhi90"/>
@@ -357,6 +339,24 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      </a>
      <br />
      <a href="https://github.com/LUCIFER-19-BIT">LUCIFER-19-BIT</a>
+  </td>
+      </tr>
+  <tr>
+
+<td align="center">
+     <a href="https://github.com/manav-os">
+       <img src="https://avatars.githubusercontent.com/u/186411567?v=4" width="100px;" alt="manav-os"/>
+     </a>
+     <br />
+     <a href="https://github.com/manav-os">manav-os</a>
+  </td>
+    
+<td align="center">
+     <a href="https://github.com/pradnya1105">
+       <img src="https://avatars.githubusercontent.com/u/197462151?v=4" width="100px;" alt="pradnya1105"/>
+     </a>
+     <br />
+     <a href="https://github.com/pradnya1105">pradnya1105</a>
   </td>
       </tr>
 </table>

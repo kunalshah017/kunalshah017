@@ -6,43 +6,42 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
-    
+
 jobs:
   followers:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Setup Node
-        uses: actions/setup-node@v2
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: 20
           cache: 'npm'
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
-          yarn
-          sudo npm i -g ts-node
+          npm ci
+          npm install -g ts-node
 
       - name: Update README
         run: node src/app.js ${{ secrets.TOKEN }}
-        
-      - name: Force Git to Detect Changes
+
+      - name: Commit changes (if any)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff --cached --quiet || git commit -m "Updated followers"
 
-
-      - name: Pull changes
-        run: git pull -r
+      - name: Pull latest changes
+        run: git pull --rebase
 
       - name: Push changes
         uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
-
-
           branch: main
+          force: true

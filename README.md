@@ -318,6 +318,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
+     <a href="https://github.com/abressiddique">
+       <img src="https://avatars.githubusercontent.com/u/173607011?v=4" width="100px;" alt="abressiddique"/>
+     </a>
+     <br />
+     <a href="https://github.com/abressiddique">abressiddique</a>
+  </td>
+    
+<td align="center">
      <a href="https://github.com/Gauri693">
        <img src="https://avatars.githubusercontent.com/u/176602299?v=4" width="100px;" alt="Gauri693"/>
      </a>
@@ -332,7 +340,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/bishnoisujal99">bishnoisujal99</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/KGandhi90">
        <img src="https://avatars.githubusercontent.com/u/177342974?v=4" width="100px;" alt="KGandhi90"/>
@@ -340,23 +350,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/KGandhi90">KGandhi90</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/LUCIFER-19-BIT">
        <img src="https://avatars.githubusercontent.com/u/178662402?v=4" width="100px;" alt="LUCIFER-19-BIT"/>
      </a>
      <br />
      <a href="https://github.com/LUCIFER-19-BIT">LUCIFER-19-BIT</a>
-  </td>
-    
-<td align="center">
-     <a href="https://github.com/manav-os">
-       <img src="https://avatars.githubusercontent.com/u/186411567?v=4" width="100px;" alt="manav-os"/>
-     </a>
-     <br />
-     <a href="https://github.com/manav-os">manav-os</a>
   </td>
       </tr>
 </table>

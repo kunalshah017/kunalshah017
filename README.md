@@ -178,14 +178,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
-     <a href="https://github.com/helallao">
-       <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="100px;" alt="helallao"/>
-     </a>
-     <br />
-     <a href="https://github.com/helallao">helallao</a>
-  </td>
-    
-<td align="center">
      <a href="https://github.com/manuqlly">
        <img src="https://avatars.githubusercontent.com/u/79348054?v=4" width="100px;" alt="manuqlly"/>
      </a>
@@ -224,9 +216,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/MoinMN">MoinMN</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/FURIOUSCHAMP007">
        <img src="https://avatars.githubusercontent.com/u/108749861?v=4" width="100px;" alt="FURIOUSCHAMP007"/>
@@ -234,7 +224,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/FURIOUSCHAMP007">FURIOUSCHAMP007</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/SetuBhatt1">
        <img src="https://avatars.githubusercontent.com/u/113768966?v=4" width="100px;" alt="SetuBhatt1"/>
@@ -273,6 +265,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      </a>
      <br />
      <a href="https://github.com/Aashu-shinde-012">Aashu-shinde-012</a>
+  </td>
+    
+<td align="center">
+     <a href="https://github.com/rasidi3112">
+       <img src="https://avatars.githubusercontent.com/u/129738392?v=4" width="100px;" alt="rasidi3112"/>
+     </a>
+     <br />
+     <a href="https://github.com/rasidi3112">rasidi3112</a>
   </td>
     
 <td align="center">

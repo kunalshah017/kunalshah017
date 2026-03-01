@@ -268,23 +268,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
-     <a href="https://github.com/rasidi3112">
-       <img src="https://avatars.githubusercontent.com/u/129738392?v=4" width="100px;" alt="rasidi3112"/>
-     </a>
-     <br />
-     <a href="https://github.com/rasidi3112">rasidi3112</a>
-  </td>
-    
-<td align="center">
      <a href="https://github.com/Tanvimisar">
        <img src="https://avatars.githubusercontent.com/u/137156453?v=4" width="100px;" alt="Tanvimisar"/>
      </a>
      <br />
      <a href="https://github.com/Tanvimisar">Tanvimisar</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/shiffsyedd">
        <img src="https://avatars.githubusercontent.com/u/142430206?v=4" width="100px;" alt="shiffsyedd"/>
@@ -292,7 +282,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/shiffsyedd">shiffsyedd</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/ananya-dhiman">
        <img src="https://avatars.githubusercontent.com/u/145692647?v=4" width="100px;" alt="ananya-dhiman"/>
@@ -340,9 +332,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/Gauri693">Gauri693</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/bishnoisujal99">
        <img src="https://avatars.githubusercontent.com/u/177215634?v=4" width="100px;" alt="bishnoisujal99"/>
@@ -350,13 +340,23 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/bishnoisujal99">bishnoisujal99</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/KGandhi90">
        <img src="https://avatars.githubusercontent.com/u/177342974?v=4" width="100px;" alt="KGandhi90"/>
      </a>
      <br />
      <a href="https://github.com/KGandhi90">KGandhi90</a>
+  </td>
+    
+<td align="center">
+     <a href="https://github.com/LUCIFER-19-BIT">
+       <img src="https://avatars.githubusercontent.com/u/178662402?v=4" width="100px;" alt="LUCIFER-19-BIT"/>
+     </a>
+     <br />
+     <a href="https://github.com/LUCIFER-19-BIT">LUCIFER-19-BIT</a>
   </td>
       </tr>
 </table>

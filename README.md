@@ -244,6 +244,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
+     <a href="https://github.com/web3sandyyy">
+       <img src="https://avatars.githubusercontent.com/u/117888826?v=4" width="100px;" alt="web3sandyyy"/>
+     </a>
+     <br />
+     <a href="https://github.com/web3sandyyy">web3sandyyy</a>
+  </td>
+    
+<td align="center">
      <a href="https://github.com/xhakti">
        <img src="https://avatars.githubusercontent.com/u/117899415?v=4" width="100px;" alt="xhakti"/>
      </a>
@@ -274,7 +282,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/omtathe">omtathe</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/Tanvimisar">
        <img src="https://avatars.githubusercontent.com/u/137156453?v=4" width="100px;" alt="Tanvimisar"/>
@@ -282,9 +292,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/Tanvimisar">Tanvimisar</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/shiffsyedd">
        <img src="https://avatars.githubusercontent.com/u/142430206?v=4" width="100px;" alt="shiffsyedd"/>
@@ -332,7 +340,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/tarunj292">tarunj292</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/abressiddique">
        <img src="https://avatars.githubusercontent.com/u/173607011?v=4" width="100px;" alt="abressiddique"/>
@@ -340,23 +350,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/abressiddique">abressiddique</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/Gauri693">
        <img src="https://avatars.githubusercontent.com/u/176602299?v=4" width="100px;" alt="Gauri693"/>
      </a>
      <br />
      <a href="https://github.com/Gauri693">Gauri693</a>
-  </td>
-    
-<td align="center">
-     <a href="https://github.com/bishnoisujal99">
-       <img src="https://avatars.githubusercontent.com/u/177215634?v=4" width="100px;" alt="bishnoisujal99"/>
-     </a>
-     <br />
-     <a href="https://github.com/bishnoisujal99">bishnoisujal99</a>
   </td>
       </tr>
 </table>

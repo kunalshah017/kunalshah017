@@ -178,6 +178,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
+     <a href="https://github.com/0vm">
+       <img src="https://avatars.githubusercontent.com/u/79897291?v=4" width="100px;" alt="0vm"/>
+     </a>
+     <br />
+     <a href="https://github.com/0vm">0vm</a>
+  </td>
+    
+<td align="center">
      <a href="https://github.com/MannJadwani">
        <img src="https://avatars.githubusercontent.com/u/89898145?v=4" width="100px;" alt="MannJadwani"/>
      </a>
@@ -216,7 +224,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/FURIOUSCHAMP007">FURIOUSCHAMP007</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/AhmedDabish">
        <img src="https://avatars.githubusercontent.com/u/111189633?v=4" width="100px;" alt="AhmedDabish"/>
@@ -224,9 +234,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/AhmedDabish">AhmedDabish</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/SetuBhatt1">
        <img src="https://avatars.githubusercontent.com/u/113768966?v=4" width="100px;" alt="SetuBhatt1"/>
@@ -274,7 +282,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/rahuloraj">rahuloraj</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/omtathe">
        <img src="https://avatars.githubusercontent.com/u/133528849?v=4" width="100px;" alt="omtathe"/>
@@ -282,9 +292,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/omtathe">omtathe</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/Tanvimisar">
        <img src="https://avatars.githubusercontent.com/u/137156453?v=4" width="100px;" alt="Tanvimisar"/>
@@ -332,7 +340,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/aashutosh1234567">aashutosh1234567</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/tarunj292">
        <img src="https://avatars.githubusercontent.com/u/156983323?v=4" width="100px;" alt="tarunj292"/>
@@ -340,23 +350,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/tarunj292">tarunj292</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/Gauri693">
        <img src="https://avatars.githubusercontent.com/u/176602299?v=4" width="100px;" alt="Gauri693"/>
      </a>
      <br />
      <a href="https://github.com/Gauri693">Gauri693</a>
-  </td>
-    
-<td align="center">
-     <a href="https://github.com/bishnoisujal99">
-       <img src="https://avatars.githubusercontent.com/u/177215634?v=4" width="100px;" alt="bishnoisujal99"/>
-     </a>
-     <br />
-     <a href="https://github.com/bishnoisujal99">bishnoisujal99</a>
   </td>
       </tr>
 </table>

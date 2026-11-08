@@ -152,13 +152,23 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
   </td>
     
 <td align="center">
+     <a href="https://github.com/MXmaster2s">
+       <img src="https://avatars.githubusercontent.com/u/56468426?v=4" width="100px;" alt="MXmaster2s"/>
+     </a>
+     <br />
+     <a href="https://github.com/MXmaster2s">MXmaster2s</a>
+  </td>
+    
+<td align="center">
      <a href="https://github.com/Piyushchy">
        <img src="https://avatars.githubusercontent.com/u/60466807?v=4" width="100px;" alt="Piyushchy"/>
      </a>
      <br />
      <a href="https://github.com/Piyushchy">Piyushchy</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/theavitw">
        <img src="https://avatars.githubusercontent.com/u/75948358?v=4" width="100px;" alt="theavitw"/>
@@ -166,9 +176,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/theavitw">theavitw</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/manuqlly">
        <img src="https://avatars.githubusercontent.com/u/79348054?v=4" width="100px;" alt="manuqlly"/>
@@ -216,7 +224,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/MoinMN">MoinMN</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/FURIOUSCHAMP007">
        <img src="https://avatars.githubusercontent.com/u/108749861?v=4" width="100px;" alt="FURIOUSCHAMP007"/>
@@ -224,9 +234,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/FURIOUSCHAMP007">FURIOUSCHAMP007</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/AhmedDabish">
        <img src="https://avatars.githubusercontent.com/u/111189633?v=4" width="100px;" alt="AhmedDabish"/>
@@ -274,7 +282,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/Aashu-shinde-012">Aashu-shinde-012</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/rahuloraj">
        <img src="https://avatars.githubusercontent.com/u/119727688?v=4" width="100px;" alt="rahuloraj"/>
@@ -282,9 +292,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/rahuloraj">rahuloraj</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/omtathe">
        <img src="https://avatars.githubusercontent.com/u/133528849?v=4" width="100px;" alt="omtathe"/>
@@ -332,7 +340,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/LyfSeeker">LyfSeeker</a>
   </td>
-    
+      </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/aashutosh1234567">
        <img src="https://avatars.githubusercontent.com/u/149098653?v=4" width="100px;" alt="aashutosh1234567"/>
@@ -340,23 +350,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
      <br />
      <a href="https://github.com/aashutosh1234567">aashutosh1234567</a>
   </td>
-      </tr>
-  <tr>
-
+    
 <td align="center">
      <a href="https://github.com/tarunj292">
        <img src="https://avatars.githubusercontent.com/u/156983323?v=4" width="100px;" alt="tarunj292"/>
      </a>
      <br />
      <a href="https://github.com/tarunj292">tarunj292</a>
-  </td>
-    
-<td align="center">
-     <a href="https://github.com/Gauri693">
-       <img src="https://avatars.githubusercontent.com/u/176602299?v=4" width="100px;" alt="Gauri693"/>
-     </a>
-     <br />
-     <a href="https://github.com/Gauri693">Gauri693</a>
   </td>
       </tr>
 </table>

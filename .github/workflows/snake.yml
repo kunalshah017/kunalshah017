@@ -3,34 +3,73 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
-  
+    - cron: "0 */24 * * *"
+
   # allows to manually run the job at any time
   workflow_dispatch:
-  
+
   # run on every push on the master branch
   push:
     branches:
     - main
-    
-  
+
+
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
+      # stats cards are generated here because the public github-readme-stats instance is rate limited
+      # fail_on_error keeps yesterday's cards on the output branch instead of publishing an error card
+      # colors match the profile banner, light variants use darker shades for contrast on white
+      - name: generate stats-dark.svg
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&border_radius=10&title_color=EE35F3&icon_color=5C9AF5&text_color=E6E1F0&bg_color=07122E&ring_color=EE35F3
+          path: dist/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: generate stats-light.svg
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&border_radius=10&title_color=B620C9&icon_color=1B51A1&text_color=1F1A2E&bg_color=FCFAFF&ring_color=B620C9&border_color=E7DDF3
+          path: dist/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: generate top-langs-dark.svg
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&border_radius=10&title_color=EE35F3&text_color=E6E1F0&bg_color=07122E
+          path: dist/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: generate top-langs-light.svg
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&border_radius=10&title_color=B620C9&text_color=1F1A2E&bg_color=FCFAFF&border_color=E7DDF3
+          path: dist/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#EE35F3
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#EE35F3
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page

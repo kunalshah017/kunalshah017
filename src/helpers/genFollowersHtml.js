@@ -1,9 +1,13 @@
+// Few rows and many columns: GitHub scrolls tables wider than the page sideways
+const ROWS = 2;
+
 function genFollowersHtml(followers) {
+  const perRow = Math.ceil(followers.length / ROWS);
   let html = "\n<table>\n";
   followers.forEach((follower, index) => {
     const name = follower.login;
     const img = follower.avatar_url;
-    if (index % 7 === 0) {
+    if (index % perRow === 0) {
       if (index !== 0) {
         html += "  </tr>\n";
       }

@@ -34,9 +34,9 @@ header() { # name crop title subtitle
 # crops keep the 415:60 header ratio
 header hackathons     1280x185+0+495    'HACKATHON WINS'        '> weekend builds that took home prizes'
 header connect        1280x185+640+10   'CONNECT WITH ME'       "> say hi, I don't bite (my interns might)"
-header tech-stack     1920x278+0+140    'MY TECH STACK'         '> click any icon to learn more about it'
+header tech-stack     1920x278+0+140    'MY TECH STACK'         '> the toys I build (and break) things with'
 header trophies       1280x185+640+110  'MY TROPHIES'           '> achievements unlocked on GitHub'
-header followers      1280x185+640+305  "WORLD'S BEST HUMANS"   '> my followers, scroll sideways for more'
+header followers      1280x185+640+305  "WORLD'S BEST HUMANS"   '> the legends who hit follow'
 header stats          1920x278+0+270    'GITHUB STATS'          '> numbers that go up, mostly'
 header interns        1920x278+0+440    'MY AI INTERNS AT WORK' '> claude code, codex & opencode, on shift 24/7'
 header contributions  960x139+0+565     'CONTRIBUTIONS'         '> watch the snake eat my commits'

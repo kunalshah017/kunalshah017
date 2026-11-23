@@ -57,6 +57,6 @@ test("genUsageSvg renders escaped, well-formed text", () => {
   const s = summarizeUsage(report, 3, new Date(2026, 10, 19));
   s.topModel = "a<b&c";
   assert.match(genUsageSvg(s, "dark"), /a&lt;b&amp;c/);
-  assert.match(genUsageSvg(s, "light"), /fill="#FCFAFF"/);
+  assert.match(genUsageSvg(s, "light"), /fill="#F6F8FA"/);
   assert.strictEqual(formatTokens(1_234_000_000), "1.23B");
 });

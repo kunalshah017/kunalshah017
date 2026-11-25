@@ -35,6 +35,7 @@ Applied AI Engineer at [PingAura AI](https://pingaura.ai), building AI agents, W
 ```mermaid
 ---
 config:
+  layout: dagre
   flowchart:
     nodeSpacing: 6
     rankSpacing: 22

@@ -21,8 +21,10 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v4
+
       # all cards share one size and GitHub's own light and dark themes; no animation is the default
-      # AUTO_PUSH is off so nothing is committed to main; the cards go to the output branch below
+      # AUTO_PUSH is off: the cards go to the output branch below
       - name: generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
         env:
@@ -39,6 +41,18 @@ jobs:
           cp -r profile-summary-card-output/github dist/light
           cp -r profile-summary-card-output/github_dark dist/dark
           ls dist/light dist/dark
+
+      # the dithered heatmap goes out with the cards; the README's Recently Merged list is committed only when it changes
+      - name: contribution heatmap and recently merged PRs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node src/contributions.js dist
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Updated recently merged PRs" README.md
+          git pull --rebase && git push
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>

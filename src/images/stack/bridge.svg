@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="64" viewBox="0 0 176 64">
+  <!-- link between Me and the AI agents in the Tech Stack graph: prompts go out, code comes back for my review -->
+  <style>
+    text { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #8B949E; }
+    .wire { fill: none; stroke: #8B5CF6; stroke-width: 2; stroke-dasharray: 5 4; }
+  </style>
+  <text x="88" y="13" text-anchor="middle">prompts</text>
+  <path class="wire" d="M4 22 H164"><animate attributeName="stroke-dashoffset" from="0" to="-18" dur="0.9s" repeatCount="indefinite"/></path>
+  <path d="M162 17 L171 22 L162 27 Z" fill="#8B5CF6"/>
+  <path class="wire" d="M172 40 H12"><animate attributeName="stroke-dashoffset" from="0" to="-18" dur="0.9s" repeatCount="indefinite"/></path>
+  <path d="M14 35 L5 40 L14 45 Z" fill="#8B5CF6"/>
+  <text x="88" y="60" text-anchor="middle">code I review &amp; test</text>
+</svg>

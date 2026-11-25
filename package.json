@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "node --test",
-    "usage": "node src/aiUsage.js"
+    "usage": "node src/aiUsage.js",
+    "map": "node src/hackathonMap.js"
   },
   "repository": {
     "type": "git",

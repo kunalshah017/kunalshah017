@@ -58,12 +58,12 @@ flowchart TB
     py@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/py.svg", label: "", w: 40, h: 40, constraint: "on" }
     solidity@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/solidity.svg", label: "", w: 40, h: 40, constraint: "on" }
     cpp@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/cpp.svg", label: "", w: 40, h: 40, constraint: "on" }
+    cs@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/cs.svg", label: "", w: 40, h: 40, constraint: "on" }
   end
   subgraph assisted["Languages (AI-assisted)"]
     direction TB
     rust@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/rust.svg", label: "", w: 40, h: 40, constraint: "on" }
     kotlin@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/kotlin.svg", label: "", w: 40, h: 40, constraint: "on" }
-    cs@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/cs.svg", label: "", w: 40, h: 40, constraint: "on" }
     go@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/go.svg", label: "", w: 40, h: 40, constraint: "on" }
   end
   subgraph design["Design & Video"]
@@ -128,7 +128,7 @@ flowchart TB
   e8@{ animate: true }
   classDef icon fill:none,stroke:none,font-size:0px
   classDef group fill:none,stroke:#8B5CF6,stroke-width:1px
-  class me,bridge,claudecode,codex,opencode,herdr,ts,js,py,solidity,cpp,rust,kotlin,cs,go,figma,ai,ps,davinciresolve,blender,react,nextjs,tailwind,vite,flutter,androidstudio,html,css,nodejs,express,fastapi,supabase,postgres,mongodb,redis,dotnet,docker,kubernetes,gcp,azure,terraform,vercel,cloudflare,linux,git icon
+  class me,bridge,claudecode,codex,opencode,herdr,ts,js,py,solidity,cpp,cs,rust,kotlin,go,figma,ai,ps,davinciresolve,blender,react,nextjs,tailwind,vite,flutter,androidstudio,html,css,nodejs,express,fastapi,supabase,postgres,mongodb,redis,dotnet,docker,kubernetes,gcp,azure,terraform,vercel,cloudflare,linux,git icon
   class agents,langs,assisted,design,frontend,backend,cloud group
   linkStyle default stroke:#8B5CF6,stroke-width:1.5px
   click claudecode href "https://claude.com/product/claude-code" "Claude Code" _blank
@@ -140,9 +140,9 @@ flowchart TB
   click py href "https://www.python.org" "Python" _blank
   click solidity href "https://soliditylang.org" "Solidity" _blank
   click cpp href "https://isocpp.org" "C++" _blank
+  click cs href "https://learn.microsoft.com/en-us/dotnet/csharp/" "C#" _blank
   click rust href "https://www.rust-lang.org" "Rust" _blank
   click kotlin href "https://kotlinlang.org" "Kotlin" _blank
-  click cs href "https://learn.microsoft.com/en-us/dotnet/csharp/" "C#" _blank
   click go href "https://go.dev" "Go" _blank
   click figma href "https://www.figma.com" "Figma" _blank
   click ai href "https://www.adobe.com/products/illustrator.html" "Adobe Illustrator" _blank

@@ -78,22 +78,27 @@ flowchart TB
     direction TB
     react@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/react.svg", label: "", w: 40, h: 40, constraint: "on" }
     nextjs@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/nextjs.svg", label: "", w: 40, h: 40, constraint: "on" }
-    tailwind@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/tailwind.svg", label: "", w: 40, h: 40, constraint: "on" }
-    vite@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/vite.svg", label: "", w: 40, h: 40, constraint: "on" }
     flutter@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/flutter.svg", label: "", w: 40, h: 40, constraint: "on" }
     androidstudio@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/androidstudio.svg", label: "", w: 40, h: 40, constraint: "on" }
-    html@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/html.svg", label: "", w: 40, h: 40, constraint: "on" }
-    css@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/css.svg", label: "", w: 40, h: 40, constraint: "on" }
+    expo@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/expo.svg", label: "", w: 40, h: 40, constraint: "on" }
+    electron@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/electron.svg", label: "", w: 40, h: 40, constraint: "on" }
+  end
+  subgraph harness["Harness Engineering"]
+    direction TB
+    langchain@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langchain.svg", label: "", w: 80, h: 40, constraint: "on" }
+    langgraph@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langgraph.svg", label: "", w: 80, h: 40, constraint: "on" }
+    mem0@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/mem0.png", label: "", w: 40, h: 40, constraint: "on" }
+    supermemory@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/supermemory.png", label: "", w: 40, h: 40, constraint: "on" }
   end
   subgraph backend["Backend & Data"]
     direction TB
-    nodejs@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/nodejs.svg", label: "", w: 40, h: 40, constraint: "on" }
+    bun@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/bun.svg", label: "", w: 40, h: 40, constraint: "on" }
     express@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/express.svg", label: "", w: 40, h: 40, constraint: "on" }
     fastapi@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/fastapi.svg", label: "", w: 40, h: 40, constraint: "on" }
+    axum@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/axum.svg", label: "", w: 40, h: 40, constraint: "on" }
     supabase@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/supabase.svg", label: "", w: 40, h: 40, constraint: "on" }
     postgres@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/postgres.svg", label: "", w: 40, h: 40, constraint: "on" }
     mongodb@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/mongodb.svg", label: "", w: 40, h: 40, constraint: "on" }
-    redis@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/redis.svg", label: "", w: 40, h: 40, constraint: "on" }
     dotnet@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/dotnet.svg", label: "", w: 40, h: 40, constraint: "on" }
   end
   subgraph cloud["Cloud & DevOps"]
@@ -103,20 +108,33 @@ flowchart TB
     gcp@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/gcp.svg", label: "", w: 40, h: 40, constraint: "on" }
     azure@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/azure.svg", label: "", w: 40, h: 40, constraint: "on" }
     terraform@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/terraform.svg", label: "", w: 40, h: 40, constraint: "on" }
-    vercel@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/vercel.svg", label: "", w: 40, h: 40, constraint: "on" }
     cloudflare@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/cloudflare.svg", label: "", w: 40, h: 40, constraint: "on" }
     linux@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/linux.svg", label: "", w: 40, h: 40, constraint: "on" }
     git@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/git.svg", label: "", w: 40, h: 40, constraint: "on" }
+  end
+  subgraph obsai["AI Observability"]
+    direction TB
+    langsmith@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langsmith.svg", label: "", w: 80, h: 40, constraint: "on" }
+    langfuse@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langfuse.png", label: "", w: 40, h: 40, constraint: "on" }
+  end
+  subgraph obsapps["App Observability"]
+    direction TB
+    posthog@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/posthog.svg", label: "", w: 40, h: 40, constraint: "on" }
+    grafana@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/grafana.svg", label: "", w: 40, h: 40, constraint: "on" }
   end
   agents e0@---> design
   agents e1@---> langs
   agents e2@---> assisted
   design e3@---> frontend
   langs e4@---> frontend
-  langs e5@---> backend
-  assisted e6@---> backend
-  frontend e7@---> cloud
-  backend e8@---> cloud
+  langs e5@---> harness
+  langs e6@---> backend
+  assisted e7@---> backend
+  frontend e8@---> cloud
+  harness e9@---> cloud
+  backend e10@---> cloud
+  cloud e11@---> obsapps
+  cloud e12@---> obsai
   e0@{ animate: true }
   e1@{ animate: true }
   e2@{ animate: true }
@@ -126,10 +144,16 @@ flowchart TB
   e6@{ animate: true }
   e7@{ animate: true }
   e8@{ animate: true }
+  e9@{ animate: true }
+  e10@{ animate: true }
+  e11@{ animate: true }
+  e12@{ animate: true }
   classDef icon fill:none,stroke:none,font-size:0px
   classDef group fill:none,stroke:#8B5CF6,stroke-width:1px
-  class me,bridge,claudecode,codex,opencode,herdr,ts,js,py,solidity,cpp,cs,rust,kotlin,go,figma,ai,ps,davinciresolve,blender,react,nextjs,tailwind,vite,flutter,androidstudio,html,css,nodejs,express,fastapi,supabase,postgres,mongodb,redis,dotnet,docker,kubernetes,gcp,azure,terraform,vercel,cloudflare,linux,git icon
-  class agents,langs,assisted,design,frontend,backend,cloud group
+  classDef focus fill:#8B5CF61F,stroke:#8B5CF6,stroke-width:2.5px
+  class me,bridge,claudecode,codex,opencode,herdr,ts,js,py,solidity,cpp,cs,rust,kotlin,go,figma,ai,ps,davinciresolve,blender,react,nextjs,flutter,androidstudio,expo,electron,langchain,langgraph,mem0,supermemory,bun,express,fastapi,axum,supabase,postgres,mongodb,dotnet,docker,kubernetes,gcp,azure,terraform,cloudflare,linux,git,langsmith,langfuse,posthog,grafana icon
+  class agents,langs,assisted,design,frontend,backend,cloud,obsai,obsapps group
+  class harness focus
   linkStyle default stroke:#8B5CF6,stroke-width:1.5px
   click claudecode href "https://claude.com/product/claude-code" "Claude Code" _blank
   click codex href "https://openai.com/codex" "Codex" _blank
@@ -151,29 +175,34 @@ flowchart TB
   click blender href "https://www.blender.org" "Blender" _blank
   click react href "https://react.dev" "React & React Native" _blank
   click nextjs href "https://nextjs.org" "Next.js" _blank
-  click tailwind href "https://tailwindcss.com" "Tailwind CSS" _blank
-  click vite href "https://vite.dev" "Vite" _blank
   click flutter href "https://flutter.dev" "Flutter" _blank
   click androidstudio href "https://developer.android.com/studio" "Android" _blank
-  click html href "https://developer.mozilla.org/en-US/docs/Web/HTML" "HTML" _blank
-  click css href "https://developer.mozilla.org/en-US/docs/Web/CSS" "CSS" _blank
-  click nodejs href "https://nodejs.org" "Node.js" _blank
+  click expo href "https://expo.dev" "Expo" _blank
+  click electron href "https://www.electronjs.org" "Electron" _blank
+  click langchain href "https://www.langchain.com" "LangChain" _blank
+  click langgraph href "https://www.langchain.com/langgraph" "LangGraph" _blank
+  click mem0 href "https://mem0.ai" "Mem0" _blank
+  click supermemory href "https://supermemory.ai" "Supermemory" _blank
+  click bun href "https://bun.sh" "Bun" _blank
   click express href "https://expressjs.com" "Express" _blank
   click fastapi href "https://fastapi.tiangolo.com" "FastAPI" _blank
+  click axum href "https://github.com/tokio-rs/axum" "Axum" _blank
   click supabase href "https://supabase.com" "Supabase" _blank
   click postgres href "https://www.postgresql.org" "PostgreSQL" _blank
   click mongodb href "https://www.mongodb.com" "MongoDB" _blank
-  click redis href "https://redis.io" "Redis" _blank
   click dotnet href "https://dotnet.microsoft.com" ".NET" _blank
   click docker href "https://www.docker.com" "Docker" _blank
   click kubernetes href "https://kubernetes.io" "Kubernetes" _blank
   click gcp href "https://cloud.google.com" "Google Cloud" _blank
   click azure href "https://azure.microsoft.com" "Azure" _blank
   click terraform href "https://developer.hashicorp.com/terraform" "Terraform" _blank
-  click vercel href "https://vercel.com" "Vercel" _blank
   click cloudflare href "https://www.cloudflare.com" "Cloudflare" _blank
   click linux href "https://www.kernel.org" "Linux" _blank
   click git href "https://git-scm.com" "Git" _blank
+  click langsmith href "https://www.langchain.com/langsmith" "LangSmith" _blank
+  click langfuse href "https://langfuse.com" "Langfuse" _blank
+  click posthog href "https://posthog.com" "PostHog" _blank
+  click grafana href "https://grafana.com" "Grafana" _blank
 ```
 
 ## GitHub Stats

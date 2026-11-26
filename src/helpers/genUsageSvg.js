@@ -32,7 +32,8 @@ function formatTokens(n) {
 function genUsageSvg(summary, theme = "dark", updated = new Date()) {
   const C = THEMES[theme];
   const W = 840;
-  const H = 290;
+  // the README's own heading names the card, so it opens with the subtitle
+  const H = 268;
   const updatedText = updated.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
 
   const stats = [
@@ -79,7 +80,6 @@ function genUsageSvg(summary, theme = "dark", updated = new Date()) {
   <desc id="desc">AI agent usage over the last ${summary.days} days: ${formatTokens(summary.totalTokens)} tokens across ${summary.agents.map((a) => a.name).join(", ")}.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
-    .title { font-size: 20px; font-weight: 600; fill: ${C.text}; }
     .sub, .label, .axis, .pct { fill: ${C.muted}; }
     .sub { font-size: 13px; }
     .label { font-size: 11px; font-weight: 600; letter-spacing: 1px; }
@@ -89,9 +89,9 @@ function genUsageSvg(summary, theme = "dark", updated = new Date()) {
     .axis { font-size: 11px; }
   </style>
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="6" fill="${C.bg}" stroke="${C.border}"/>
-  <text x="28" y="44" class="title">AI Agent Usage</text>
-  <text x="28" y="66" class="sub">Coding agents I work with · last ${summary.days} days</text>
-  <text x="${W - 28}" y="44" class="sub" text-anchor="end">updated ${updatedText}</text>
+  <text x="28" y="42" class="sub">Coding agents I work with · last ${summary.days} days</text>
+  <text x="${W - 28}" y="42" class="sub" text-anchor="end">updated ${updatedText}</text>
+  <g transform="translate(0 -22)">
   ${stats}
   <text x="28" y="176" class="label">BY AGENT</text>
   ${agents}
@@ -99,6 +99,7 @@ function genUsageSvg(summary, theme = "dark", updated = new Date()) {
   ${bars}
   <text x="${chartX}" y="270" class="axis">${summary.days} days ago</text>
   <text x="${W - 28}" y="270" class="axis" text-anchor="end">today</text>
+  </g>
 </svg>
 `;
 }

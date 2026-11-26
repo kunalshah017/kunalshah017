@@ -46,6 +46,7 @@ jobs:
       - name: contribution heatmap and recently merged PRs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TZ: Asia/Kolkata  # the "updated" date on the heatmap is India time
         run: |
           node src/contributions.js dist
           git diff --quiet README.md && exit 0

@@ -1,10 +1,10 @@
 <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/banner-light.png"><img width="100%" src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/banner-dark.png" alt="Dithered portrait with arms spread wide as Claude Code, Codex, OpenCode, DeepSeek, TypeScript, Rust, Ethereum and Solana orbit around"/></picture>
 
-# Hi! I'm Kunal!
+<h1 align="center">Hi, I'm Kunal</h1>
 
-Applied AI Engineer at [PingAura AI](https://pingaura.ai), building AI agents, Web3 apps and mobile products. 6x hackathon winner.
+<p align="center">Applied AI Engineer at <a href="https://pingaura.ai">PingAura AI</a>, building AI agents, Web3 apps and mobile products. 6x hackathon winner.</p>
 
-[LinkedIn](https://linkedin.com/in/kunalshah017) · [X](https://x.com/kunalshah017_v2) · [Website](https://kunalshah017.is-a.dev)
+<p align="center"><a href="https://linkedin.com/in/kunalshah017">LinkedIn</a> · <a href="https://x.com/kunalshah017_v2">X</a> · <a href="https://www.youtube.com/@kunalshah017">YouTube</a> · <a href="https://kunalshah017.is-a.dev">Website</a></p>
 
 ## My Top Projects
 
@@ -38,8 +38,10 @@ config:
   layout: dagre
   flowchart:
     nodeSpacing: 6
-    rankSpacing: 22
-    padding: 6
+    rankSpacing: 4
+    subGraphTitleMargin:
+      top: 8
+      bottom: 17
 ---
 flowchart TB
   subgraph agents["Me ⇄ AI Coding Agents"]
@@ -85,10 +87,10 @@ flowchart TB
   end
   subgraph harness["Harness Engineering"]
     direction TB
-    langchain@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langchain.svg", label: "", w: 80, h: 40, constraint: "on" }
-    langgraph@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langgraph.svg", label: "", w: 80, h: 40, constraint: "on" }
-    mem0@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/mem0.png", label: "", w: 40, h: 40, constraint: "on" }
-    supermemory@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/supermemory.png", label: "", w: 40, h: 40, constraint: "on" }
+    langchain@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langchain.svg", label: "", w: 40, h: 40, constraint: "on" }
+    langgraph@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langgraph.svg", label: "", w: 40, h: 40, constraint: "on" }
+    mem0@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/mem0.svg", label: "", w: 40, h: 40, constraint: "on" }
+    supermemory@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/supermemory.svg", label: "", w: 40, h: 40, constraint: "on" }
   end
   subgraph backend["Backend & Data"]
     direction TB
@@ -114,27 +116,30 @@ flowchart TB
   end
   subgraph obsai["AI Observability"]
     direction TB
-    langsmith@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langsmith.svg", label: "", w: 80, h: 40, constraint: "on" }
-    langfuse@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langfuse.png", label: "", w: 40, h: 40, constraint: "on" }
+    langsmith@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langsmith.svg", label: "", w: 40, h: 40, constraint: "on" }
+    langfuse@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/langfuse.svg", label: "", w: 40, h: 40, constraint: "on" }
   end
   subgraph obsapps["App Observability"]
     direction TB
     posthog@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/posthog.svg", label: "", w: 40, h: 40, constraint: "on" }
     grafana@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/grafana.svg", label: "", w: 40, h: 40, constraint: "on" }
+    sentry@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/sentry.svg", label: "", w: 40, h: 40, constraint: "on" }
+    opentelemetry@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/opentelemetry.svg", label: "", w: 40, h: 40, constraint: "on" }
+    appinsights@{ img: "https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/stack/appinsights.svg", label: "", w: 40, h: 40, constraint: "on" }
   end
-  agents e0@---> design
-  agents e1@---> langs
-  agents e2@---> assisted
-  design e3@---> frontend
-  langs e4@---> frontend
-  langs e5@---> harness
-  langs e6@---> backend
-  assisted e7@---> backend
-  frontend e8@---> cloud
-  harness e9@---> cloud
-  backend e10@---> cloud
-  cloud e11@---> obsapps
-  cloud e12@---> obsai
+  agents e0@-------------------> design
+  agents e1@-------------------> langs
+  agents e2@-------------------> assisted
+  design e3@-------------------> frontend
+  langs e4@-------------------> frontend
+  langs e5@-------------------> harness
+  langs e6@-------------------> backend
+  assisted e7@-------------------> backend
+  frontend e8@-------------------> cloud
+  harness e9@-------------------> cloud
+  backend e10@-------------------> cloud
+  cloud e11@-------------------> obsapps
+  cloud e12@-------------------> obsai
   e0@{ animate: true }
   e1@{ animate: true }
   e2@{ animate: true }
@@ -150,10 +155,8 @@ flowchart TB
   e12@{ animate: true }
   classDef icon fill:none,stroke:none,font-size:0px
   classDef group fill:none,stroke:#8B5CF6,stroke-width:1px
-  classDef focus fill:#8B5CF61F,stroke:#8B5CF6,stroke-width:2.5px
-  class me,bridge,claudecode,codex,opencode,herdr,ts,js,py,solidity,cpp,cs,rust,kotlin,go,figma,ai,ps,davinciresolve,blender,react,nextjs,flutter,androidstudio,expo,electron,langchain,langgraph,mem0,supermemory,bun,express,fastapi,axum,supabase,postgres,mongodb,dotnet,docker,kubernetes,gcp,azure,terraform,cloudflare,linux,git,langsmith,langfuse,posthog,grafana icon
-  class agents,langs,assisted,design,frontend,backend,cloud,obsai,obsapps group
-  class harness focus
+  class me,bridge,claudecode,codex,opencode,herdr,ts,js,py,solidity,cpp,cs,rust,kotlin,go,figma,ai,ps,davinciresolve,blender,react,nextjs,flutter,androidstudio,expo,electron,langchain,langgraph,mem0,supermemory,bun,express,fastapi,axum,supabase,postgres,mongodb,dotnet,docker,kubernetes,gcp,azure,terraform,cloudflare,linux,git,langsmith,langfuse,posthog,grafana,sentry,opentelemetry,appinsights icon
+  class agents,langs,assisted,design,frontend,harness,backend,cloud,obsai,obsapps group
   linkStyle default stroke:#8B5CF6,stroke-width:1.5px
   click claudecode href "https://claude.com/product/claude-code" "Claude Code" _blank
   click codex href "https://openai.com/codex" "Codex" _blank
@@ -203,6 +206,9 @@ flowchart TB
   click langfuse href "https://langfuse.com" "Langfuse" _blank
   click posthog href "https://posthog.com" "PostHog" _blank
   click grafana href "https://grafana.com" "Grafana" _blank
+  click sentry href "https://sentry.io" "Sentry" _blank
+  click opentelemetry href "https://opentelemetry.io" "OpenTelemetry" _blank
+  click appinsights href "https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview" "Application Insights" _blank
 ```
 
 ## GitHub Stats
